@@ -11,7 +11,7 @@
 
 	function bter_query($path, array $req = array()) {
 		// API settings, add your Key and Secret at here
-		$key = REDACTED;
+		$key = REDACTED; //Remove personal key before commiting!
 		$secret = REDACTED;
 	 
 			// generate a nonce to avoid problems with 32bits systems
