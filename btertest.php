@@ -7,7 +7,7 @@
 	$AMOUNT=$_GET['volume'];
 	$FUNCTION=$_GET['function'];
 	
-	if($TESTPASS==REDACTED){
+	if($TESTPASS=='testpass'){
 
 	function bter_query($path, array $req = array()) {
 		// API settings, add your Key and Secret at here
