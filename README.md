@@ -3,6 +3,8 @@ Altrader
 
 A versatile fully integrated alt-coin trading program!
 
+Info:
+Currently requires Altrader.java, Trade.java and btertrade.php to run.
 
 ==========================================================================================================================
 ChangeLog:
